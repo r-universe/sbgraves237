@@ -1,0 +1,10 @@
+[
+  {
+    "package": "Ecdat",
+    "oncran": true
+  },
+  {
+    "package": "Ecfun",
+    "oncran": true
+  }
+]
