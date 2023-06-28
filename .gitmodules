@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "Ecdat"]
 	path = Ecdat
 	url = https://github.com/sbgraves237/ecdat
-	shallow = true
-	registered = true
 [submodule "Ecfun"]
 	path = Ecfun
 	url = https://github.com/sbgraves237/ecfun
-	shallow = true
-	registered = true
