@@ -8,3 +8,6 @@
 [submodule "Ecfun"]
 	path = Ecfun
 	url = https://github.com/sbgraves237/ecfun
+[submodule "sos"]
+	path = sos
+	url = https://github.com/sbgraves237/sos
