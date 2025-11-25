@@ -8,6 +8,9 @@
 [submodule "Ecfun"]
 	path = Ecfun
 	url = https://github.com/sbgraves237/ecfun
+[submodule "MaddisonData"]
+	path = MaddisonData
+	url = https://github.com/sbgraves237/maddisondata
 [submodule "sos"]
 	path = sos
 	url = https://github.com/sbgraves237/sos
